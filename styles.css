@@ -1,0 +1,31 @@
+﻿body {
+	font-family: Verdana,Geneva,sans-serif;
+	color: #000099;
+	background-color:#ccffff;
+
+}
+h3 {
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	color: #336699;
+}
+a {
+}
+.oddRow {
+	background-color: #CCCCCC;
+}
+.evenRow {
+	background-color: #FFFFFF;
+}
+td {
+	vertical-align: top;
+}
+#contact {
+	vertical-align: bottom;
+	text-align: right;
+}
+#allpage {
+	width: 980px;
+	margin: auto;
+}

@@ -1,0 +1,23 @@
+﻿h1 {
+	background-image: url('images/trilliumbanner.jpg');
+	background-repeat: no-repeat;
+	background-color: #D5ECB3;
+}
+h2 {
+	background-color: #D5ECB3;
+	background-image: url('images/trilliumbg.gif');
+	background-repeat: no-repeat;
+}
+h1 {
+	padding-left: 30px;
+}
+.companyName {
+	font-size: large;
+}
+footer {
+	color: #FFFFFF;
+}
+footer {
+	background-color: #5C743D;
+	color: #FFFFFF;
+}
